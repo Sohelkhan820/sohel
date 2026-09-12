@@ -45,6 +45,7 @@ export interface ProfileSettings {
   happyClients: string;
 }
 
+
 const DEFAULT_PROJECTS: Project[] = [
   {
     id: 1,
@@ -61,7 +62,7 @@ const DEFAULT_PROJECTS: Project[] = [
     title: "Motions Graphics",
     category: "Reels",
     description: "",
-    image: "https://i.postimg.cc/1nx39qdm/Screenshot-2026-09-08-003330.png",
+    image: "/images/a (7).png",
     youtubeUrl: "https://www.youtube.com/embed/lRzgm-Moaxw",
     duration: "0:50",
     featured: true
