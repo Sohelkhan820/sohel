@@ -146,10 +146,17 @@ const DEFAULT_PROJECTS: Project[] = [
     youtubeUrl: "https://www.youtube.com/embed/PnUI13R82vk?si=FVs8YDU60JTp8iR6",
     duration: "1:20",
     featured: true
-  }
-
-
-
+  },
+  // {
+  //   id: 11,
+  //   title: "Documentary: The Artisan",
+  //   category: "Documentary",
+  //   description: "Story highlighting the craftsmanship of a luthier.",
+  //   image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
+  //   youtubeUrl: "https://www.youtube.com/watch?v=BvXGPhE-Tto",
+  //   duration: "5:20",
+  //   featured: false
+  // }
 ];
 
 const DEFAULT_REVIEWS: ClientReview[] = [
