@@ -112,7 +112,7 @@ const DEFAULT_PROJECTS: Project[] = [
     title: "To grow your creative video editing mindset",
     category: "Reels",
     description: "Best Clothing Ads video for a high-end WEC.",
-    image: "https://i.postimg.cc/HxL2gcPt/video-capture-t0008-54seg-9456.png",
+    image: "/images/a (6).png",
     youtubeUrl: "https://www.youtube.com/embed/lXe7jocG7E8",
     duration: "0:40",
     featured: true
