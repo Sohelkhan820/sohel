@@ -93,7 +93,7 @@ const DEFAULT_PROJECTS: Project[] = [
     category: "Reels",
     description: ".",
     image: "https://i.postimg.cc/MpbHWcyZ/video-capture-t0001-11seg-2351.png",
-    youtubeUrl: "https://www.youtube.com/embed/tqIl3GQLW78",
+    youtubeUrl: "https://www.youtube.com/embed/UlaLzXcyDhU",
     duration: "0:45",
     featured: true
   },
@@ -113,7 +113,7 @@ const DEFAULT_PROJECTS: Project[] = [
     category: "Reels",
     description: "Best Clothing Ads video for a high-end WEC.",
     image: "/images/a (6).png",
-    youtubeUrl: "https://www.youtube.com/embed/lXe7jocG7E8",
+    youtubeUrl: "https://www.youtube.com/embed/jHYBw2eoIeY",
     duration: "0:40",
     featured: true
   },
