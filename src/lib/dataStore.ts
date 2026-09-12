@@ -147,16 +147,29 @@ const DEFAULT_PROJECTS: Project[] = [
     duration: "1:20",
     featured: true
   },
-  // {
-  //   id: 11,
-  //   title: "Documentary: The Artisan",
-  //   category: "Documentary",
-  //   description: "Story highlighting the craftsmanship of a luthier.",
-  //   image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=800&auto=format&fit=crop",
-  //   youtubeUrl: "https://www.youtube.com/watch?v=BvXGPhE-Tto",
-  //   duration: "5:20",
-  //   featured: false
-  // }
+  {
+    id: 11,
+    title: "jani demo",
+    category: "Talking Head",
+    description: "",
+    image: "/images/a (5).jpg",
+    youtubeUrl: "https://www.youtube.com/embed/dC6DNsNE910",
+    duration: "1:20",
+    featured: true
+  },
+  {
+    id: 12,
+    title: "Visuals That Convert jani na",
+    category: "Documentary",
+    description: "",
+    image: "/images/a (3).png",
+    youtubeUrl: "https://www.youtube.com/embed/iNhceGLsVAE",
+    duration: "1:20",
+    featured: true
+  }
+
+
+
 ];
 
 const DEFAULT_REVIEWS: ClientReview[] = [
