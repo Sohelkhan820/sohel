@@ -146,26 +146,6 @@ const DEFAULT_PROJECTS: Project[] = [
     youtubeUrl: "https://www.youtube.com/embed/PnUI13R82vk?si=FVs8YDU60JTp8iR6",
     duration: "1:20",
     featured: true
-  },
-  {
-    id: 11,
-    title: "jani demo",
-    category: "Talking Head",
-    description: "",
-    image: "/images/a (5).jpg",
-    youtubeUrl: "https://www.youtube.com/embed/dC6DNsNE910",
-    duration: "1:20",
-    featured: true
-  },
-  {
-    id: 12,
-    title: "Visuals That Convert jani na",
-    category: "Documentary",
-    description: "",
-    image: "/images/a (3).png",
-    youtubeUrl: "https://www.youtube.com/embed/iNhceGLsVAE",
-    duration: "1:20",
-    featured: true
   }
 
 
